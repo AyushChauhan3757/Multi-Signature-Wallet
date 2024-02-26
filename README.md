@@ -29,5 +29,4 @@
 [Ayush Chauhan](https://github.com/AyushChauhan3757)
 
 ## 🌟 Acknowledgments
-- Inspiration: [Insert any sources or references that inspired the contract]
-- Libraries/Tools Used: [List any external libraries or tools used in development]
+- Tutorial Used: https://youtu.be/uoQhMFAZ6V0?si=vMAypgFDKWxpGzal
